@@ -1,0 +1,17 @@
+[
+    {
+        "reciever": "0x00000398232E2064F896018496b4b44b3D62751F",
+        "maxcount": 5,
+        "signature": "0xf47808a737c0c33cfa354f67b1a329e762bc01cdd330e6fca5ccc5920d4166305176af8ec5d47c598abdbd4e9306b08b356be7891a35c81e6627ff6c24c640151b"
+    },
+    {
+        "reciever": "0x0dd874F41cE844FcdaeBA33714B6197136D89B7F",
+        "maxcount": 5,
+        "signature": "0x39604c7f50a724134d502eb790b0fc67a375a9e8821d529129c98d8b6bad453e4daae56c8fb32788a24e00ec9d4224d7772e6d2c7ac6b8788d1ceb6bc59314b61c"
+    },
+    {
+        "reciever": "0xC96B80cc21cF2F507ca53C9e12A2b730B93696b5",
+        "maxcount": 5,
+        "signature": "0xdbc6500754d1fa39e4e85f90ab2dbeedc3fed0f6f56e5b834dd6a9bea951a0dc69df0ae255379d811b214062c4b0f01c455965874e7711a2a0137ea2a925dcba1c"
+    }
+]
